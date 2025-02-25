@@ -22,11 +22,6 @@ Um servidor Asterisk configurado para salvar gravações de chamadas no diretór
 
 Instalação
 
-Clone o repositório:
-
-git clone https://github.com/seu-repositorio/transcricao-pabx.git
-cd transcricao-pabx
-
 Instale as dependências:
 
 pip install -r requirements.txt
